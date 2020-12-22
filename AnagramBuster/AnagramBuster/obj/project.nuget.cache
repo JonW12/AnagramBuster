@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uDeH6ktRJi65KXnKdogAUATFCbS3LgP1MZEfES8/9ZqtU00jNdQFWmIgTR370aReuhVsB1rRp5ZQdCAlR2uE9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonathanwilliamson\\source\\repos\\AnagramBuster\\AnagramBuster\\AnagramBuster\\AnagramBuster.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonathanwilliamson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
