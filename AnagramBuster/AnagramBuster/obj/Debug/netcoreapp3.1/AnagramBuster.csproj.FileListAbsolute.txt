@@ -1,0 +1,13 @@
+C:\Users\jonathanwilliamson\source\repos\AnagramBuster\AnagramBuster\AnagramBuster\bin\Debug\netcoreapp3.1\AnagramBuster.exe
+C:\Users\jonathanwilliamson\source\repos\AnagramBuster\AnagramBuster\AnagramBuster\bin\Debug\netcoreapp3.1\AnagramBuster.deps.json
+C:\Users\jonathanwilliamson\source\repos\AnagramBuster\AnagramBuster\AnagramBuster\bin\Debug\netcoreapp3.1\AnagramBuster.runtimeconfig.json
+C:\Users\jonathanwilliamson\source\repos\AnagramBuster\AnagramBuster\AnagramBuster\bin\Debug\netcoreapp3.1\AnagramBuster.runtimeconfig.dev.json
+C:\Users\jonathanwilliamson\source\repos\AnagramBuster\AnagramBuster\AnagramBuster\bin\Debug\netcoreapp3.1\AnagramBuster.dll
+C:\Users\jonathanwilliamson\source\repos\AnagramBuster\AnagramBuster\AnagramBuster\bin\Debug\netcoreapp3.1\AnagramBuster.pdb
+C:\Users\jonathanwilliamson\source\repos\AnagramBuster\AnagramBuster\AnagramBuster\obj\Debug\netcoreapp3.1\AnagramBuster.csprojAssemblyReference.cache
+C:\Users\jonathanwilliamson\source\repos\AnagramBuster\AnagramBuster\AnagramBuster\obj\Debug\netcoreapp3.1\AnagramBuster.AssemblyInfoInputs.cache
+C:\Users\jonathanwilliamson\source\repos\AnagramBuster\AnagramBuster\AnagramBuster\obj\Debug\netcoreapp3.1\AnagramBuster.AssemblyInfo.cs
+C:\Users\jonathanwilliamson\source\repos\AnagramBuster\AnagramBuster\AnagramBuster\obj\Debug\netcoreapp3.1\AnagramBuster.csproj.CoreCompileInputs.cache
+C:\Users\jonathanwilliamson\source\repos\AnagramBuster\AnagramBuster\AnagramBuster\obj\Debug\netcoreapp3.1\AnagramBuster.dll
+C:\Users\jonathanwilliamson\source\repos\AnagramBuster\AnagramBuster\AnagramBuster\obj\Debug\netcoreapp3.1\AnagramBuster.pdb
+C:\Users\jonathanwilliamson\source\repos\AnagramBuster\AnagramBuster\AnagramBuster\obj\Debug\netcoreapp3.1\AnagramBuster.genruntimeconfig.cache
